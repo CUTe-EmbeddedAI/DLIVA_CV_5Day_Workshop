@@ -1,0 +1,43 @@
+﻿PYCHARM IDE INSTALLATION STEPS.
+
+
+#1
+
+
+FOR WINDOWS  https://www.jetbrains.com/pycharm/download/#section=windows 
+
+
+FOR LINUX      https://www.jetbrains.com/pycharm/download/#section=linux 
+
+
+FOR MAC   https://www.jetbrains.com/pycharm/download/#section=mac 
+
+
+#2
+
+
+CHOOSE “COMMUNITY”
+
+
+#3 
+
+
+INSTALL
+
+
+ANACONDA INSTALLATION STEPS
+
+
+#1 
+
+
+https://www.anaconda.com/distribution/ 
+
+
+#2 
+
+
+Choose “Windows” or “Mac” or “Linux”
+
+
+#3
