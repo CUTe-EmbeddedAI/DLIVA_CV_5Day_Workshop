@@ -6,7 +6,7 @@ It targets to upskill the graduates before embarking on their job-seeking journe
 
 The workshop covers the important components of deep learning for computer vision, including image classification, object detection, and image segmentation. The final day of the workshop will be concluded with a formal assessment to test the competency of each student. 
 
-![The WorkShop Poster](https://github.com/CUTe-EmbeddedAI/images/blob/main/images/DLIVA_CV.jpeg?raw=true)
+![The WorkShop Poster](https://github.com/CUTe-EmbeddedAI/images/blob/main/images/DLIVA_CV.png?raw=true)
 
 
 
